@@ -1,0 +1,9 @@
+Check git in my pc:
+git config --global user.name
+git config --global user.email
+
+start commit GitHub:
+git init
+git add .
+git commit -m "My First Commit" 
+git remote add origin https://github.com/CeLo93/Exercise_Pismo.git
