@@ -1,0 +1,7 @@
+Check git in my pc:
+git config --global user.name
+git config --global user.email
+
+start commit GitHub:
+git init
+

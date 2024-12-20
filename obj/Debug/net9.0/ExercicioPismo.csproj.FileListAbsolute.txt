@@ -1,0 +1,14 @@
+D:\Programing\CSharp\ExercicioPismo\bin\Debug\net9.0\ExercicioPismo.exe
+D:\Programing\CSharp\ExercicioPismo\bin\Debug\net9.0\ExercicioPismo.deps.json
+D:\Programing\CSharp\ExercicioPismo\bin\Debug\net9.0\ExercicioPismo.runtimeconfig.json
+D:\Programing\CSharp\ExercicioPismo\bin\Debug\net9.0\ExercicioPismo.dll
+D:\Programing\CSharp\ExercicioPismo\bin\Debug\net9.0\ExercicioPismo.pdb
+D:\Programing\CSharp\ExercicioPismo\obj\Debug\net9.0\ExercicioPismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\CSharp\ExercicioPismo\obj\Debug\net9.0\ExercicioPismo.AssemblyInfoInputs.cache
+D:\Programing\CSharp\ExercicioPismo\obj\Debug\net9.0\ExercicioPismo.AssemblyInfo.cs
+D:\Programing\CSharp\ExercicioPismo\obj\Debug\net9.0\ExercicioPismo.csproj.CoreCompileInputs.cache
+D:\Programing\CSharp\ExercicioPismo\obj\Debug\net9.0\ExercicioPismo.dll
+D:\Programing\CSharp\ExercicioPismo\obj\Debug\net9.0\refint\ExercicioPismo.dll
+D:\Programing\CSharp\ExercicioPismo\obj\Debug\net9.0\ExercicioPismo.pdb
+D:\Programing\CSharp\ExercicioPismo\obj\Debug\net9.0\ExercicioPismo.genruntimeconfig.cache
+D:\Programing\CSharp\ExercicioPismo\obj\Debug\net9.0\ref\ExercicioPismo.dll
