@@ -7,3 +7,4 @@ git init
 git add .
 git commit -m "My First Commit" 
 git remote add origin https://github.com/CeLo93/Exercise_Pismo.git
+git push -u origin main  
