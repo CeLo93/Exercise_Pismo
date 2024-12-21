@@ -1,1 +1,1 @@
-# Exercise_Pismo
+**Exercise_Pismo:** Repositório base do projeto e caminho do commit
